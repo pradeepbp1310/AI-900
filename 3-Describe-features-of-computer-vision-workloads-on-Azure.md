@@ -33,6 +33,7 @@ The goal of computer vision is to automate tasks that the human visual system ca
     - _Think of it as:_ Making text in images searchable and editable.
 
 4.  **Facial Detection, Recognition, and Analysis:**
+
     - **Facial Detection:**
       - **Purpose:** Identifies the presence and location of human faces in an image or video. It simply tells you _if_ and _where_ a face is.
       - **Example:** A camera detecting that a face is present in its field of view.
@@ -43,6 +44,11 @@ The goal of computer vision is to automate tasks that the human visual system ca
       - **Purpose:** Extracts attributes or characteristics from a detected face.
       - **Example:** Determining a person's age, gender, emotion (smiling, sad), or head pose from their facial features.
     - _Think of it as:_ Detection (is there a face?), Recognition (whose face is it?), Analysis (what are the characteristics of this face?).
+
+5.  **Semantic Segmentation:**
+    - **Purpose:** This computer vision task involves classifying _every single pixel_ in an image as belonging to a particular class or object. Instead of just drawing a bounding box around an object, it creates a precise, pixel-level mask or outline of the object.
+    - **Example:** In an image of a street, semantic segmentation would color every pixel belonging to a "car" in blue, every pixel belonging to a "road" in green, and every pixel belonging to a "pedestrian" in red, providing a very detailed map of the scene.
+    - _Think of it as:_ Not just "where is the car?" but "exactly _which pixels_ make up the car?"
 
 ---
 
