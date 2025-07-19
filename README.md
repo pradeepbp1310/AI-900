@@ -5,3 +5,5 @@
 [2. Fundamental Principles of Machine Learning on Azure](2-Fundamental-Principles-of-Machine-Learning-on-Azure.md)
 
 [3. Describe features of computer vision workloads on Azure](3-Describe-features-of-computer-vision-workloads-on-Azure.md)
+
+[4. Describe features of NLP workloads on Azure](4-Features-of-NLP.md)
